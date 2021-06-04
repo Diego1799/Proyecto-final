@@ -1,0 +1,320 @@
+.bg-negro{
+    background-color:black !important;
+
+}
+
+.boton{
+    background-color: #ff4655 !important;
+}
+
+.white-letter{
+    color:white !important;
+}
+
+.logo{
+    height: 45px;
+    width: 90px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: -55%;
+}
+
+.body-bg {
+    overflow: auto !important;
+    background-size: cover !important;
+    background-position-y: 50% !important;
+    background-position-x: center !important;
+    background-attachment: fixed !important;
+    height: 100vh !important;
+}
+
+.titulo{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+
+.boton-registro{
+    background-color: #ff4655;
+    color: white;
+    width: 150px;
+    height: 35px;
+    border-radius: 50px;
+    border-color: white;
+    font-size: 15px;
+    
+}
+
+.imagen1{
+    margin: 15px;
+    padding: 0;
+    height: 380px;
+    max-width: 100%;
+    position: relative;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.imagen2{
+    margin: 15px;
+    padding: 0;
+    height: 380px;
+    max-width: 100%;
+    position: relative;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.imagen3{
+    margin: 15px;
+    padding: 0;
+    height: 380px;
+    max-width: 100%;
+    position: relative;
+    border-radius: 50px;
+}
+
+.contenedor-wrap{
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+}
+
+.Jumbo{
+    width: 500px !important;
+    height: 250px;
+    margin: 30px !important;
+    border-radius: 25px !important;
+    background-color: papayawhip  !important;
+    border: none !important;
+    text-align: center;
+    padding: 5% !important;
+}
+
+.just-jumbo{
+    text-align: justify;
+}
+
+.footer{
+    background-color: #ff4655;
+    color: black;
+    text-align: center;
+    position: relative; 
+    bottom: 0px;
+    width: 100%;
+    
+    
+}
+
+.logo-footer{
+    width:200px;
+    height:200px;
+}
+
+.twitter{
+    width:40px;
+    height:40px;
+}
+
+.facebook{
+    width: 50px;
+    height: 50px;
+}
+
+.instagram{
+    width: 50px;
+    height: 50px;
+}
+
+.body-acerca{
+    background-color: #FEEFE2 !important;
+    height: 100vh !important;
+}
+
+
+.titulo-acerca{
+    text-align: center;
+    color: black;
+    font-size: 60px;
+}
+
+.Jumbo-acerca{
+    width: 500px !important;
+    height: 380px;
+    margin: 30px !important;
+    border-radius: 25px !important;
+    background-color: white  !important;
+    border: none !important;
+    text-align: center;
+    padding: 5% !important;
+}
+
+.form{
+    margin: auto;
+    width: 50%;
+    max-width: 500px;
+    background-color: black;
+    padding: 30px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.titulo-registro{
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;   
+}
+
+.form-label {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    display: block;
+    color: white;
+}
+
+.form-input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.condiciones{
+    text-align: justify;
+    color: white;
+}
+
+.form-text {
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: white!important;
+}
+
+.form-date{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #7e7e7c;
+}
+
+.boton-registrar-align{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.boton-registrar{
+    background-color: #ff4655;
+    color: white;
+    width: 250px;
+    height: 50px;
+    border-radius: 50px;
+    border-color: white;
+    font-size: 25px;
+    position: relative;
+}
+
+.icon-date::-webkit-calendar-picker-indicator {
+    background-color: white;
+    border-radius: 25%;
+}
+
+.toggler{
+    height: 25px;
+    width: 25px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    
+}
+
+.boton-crud{
+    background-color: #ff4655;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    border-color: white;
+    font-size: 20px;
+    position: relative;
+}
+
+.boton-crudmargin{
+    background-color: #ff4655;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    border-color: white;
+    font-size: 20px;
+    position: relative;
+    margin-left: 50px;
+}
+
+.productos{
+    width: 700px;
+    height: auto;
+    border: 1px solid white;
+    margin: 10px;
+    display: flex;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.tiendaproducto{
+    background-color: #ff4655;
+    width: 700px;
+    height: auto;
+    border: 1px solid white;
+    border-radius: 50px;
+    margin: 10px;
+    display: flex;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.margin {
+    margin: 20px;
+}
+
+.boton-lista{
+    background-color: #ff4655;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    border-color: white;
+    font-size: 20px;
+    position: relative;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.boton-crud2{
+    background-color: #ff4655;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border-radius: 50px;
+    border-color: white;
+    font-size: 15px;
+    position: relative;
+}
+
+.borrar{
+    margin-top: 50px;
+    margin-right: -80px;
+    margin-left: 20px;
+}
+
+.editar{
+    margin-top: 100px;
+    margin-right: 50px;
+}
